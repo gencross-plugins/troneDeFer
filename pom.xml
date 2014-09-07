@@ -15,7 +15,7 @@
   
   <scm>
 		<connection>scm:git:git://github.com/gencross-plugins/troneDeFer.git</connection>
-		<developerConnection>scm:git@github.com:gencross-plugins/troneDeFer.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:gencross-plugins/troneDeFer.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
   
